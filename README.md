@@ -1,4 +1,4 @@
-### Installation instructions
+### Installing required software
 
 - install WaveForms following the getting started guide:
   - [WaveForms Getting Started Guide](https://digilent.com/reference/software/waveforms/waveforms-3/getting-started-guide)
@@ -23,3 +23,11 @@
   - open command palette (Ctrl+Shift+P)
   - type micromamba create environment
   - restart Visual Studio Code
+
+### Working with notebooks
+
+- open one of the notebooks in Visual Studio Code
+
+- make sure the micromamba environment called "default" is selected in the kernel/environment selector in the top right corner of the notebook view
+
+- run the code cells one by one by clicking the play icon in the top left corner of each cell
