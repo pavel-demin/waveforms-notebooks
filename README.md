@@ -20,9 +20,8 @@
   - in the "Open Folder" dialog select waveforms-notebooks folder and click "Open"
 
 - create micromamba environment
-  - open command palette (Ctrl+Shift+P)
-  - type micromamba create environment
-  - restart Visual Studio Code
+  - from the "View” menu select "Command Palette”
+  - type "micromamba create environment”
 
 ### Working with notebooks
 
