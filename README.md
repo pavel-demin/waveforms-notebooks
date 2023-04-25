@@ -20,8 +20,8 @@
   - in the "Open Folder" dialog select waveforms-notebooks folder and click "Open"
 
 - create micromamba environment
-  - from the "View” menu select "Command Palette”
-  - type "micromamba create environment”
+  - from the "View" menu select "Command Palette"
+  - type "micromamba create environment"
 
 ### Working with notebooks
 
